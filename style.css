@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    width: 15%;
+    height: 100vh;
+    background: #000;
+    float: left;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 50px;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.section {
+    margin-left: 15%;
+    font-size: 24px;
+    padding: 40px;
+}
+
+.home {
+    background-image: url(https://www.hiresafe.com/wp-content/uploads/2015/02/free-office-wallpaper-26001-26685-hd-wallpapers.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.contact {
+    background: url(https://img.freepik.com/free-vector/flat-design-illustration-customer-support_23-2148887720.jpg?w=740&t=st=1687627900~exp=1687628500~hmac=ef75cc04c3d7b0d77cc88aed4f5f940e131945f95dd393f3cdb5122cb5714cee);
+    height: 100vh;
+    background-size: cover;
+}
+
+.guide {
+    background: url(https://document360.com/wp-content/uploads/2022/01/Ultimate-guide-to-writing-instructions-for-a-user-manual-Document360-1200x684.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.info {
+    background: url(https://lawrenceryaninvestigations.com/wp-content/uploads/2019/07/background-information.jpg);
+    height: 100vh;
+    background-size: cover;
+}
